@@ -178,4 +178,4 @@
         android:layout_alignParentRight="true"
         android:text="@string/submit_string" />
 
-</RelativeLayout><!-- From: file:/Users/leahsweeney/GitHub/android/Lab4_UILabs/app/src/main/res/layout/add_todo.xml -->
+</RelativeLayout><!-- From: file:/Users/leahsweeney/AndroidStudioProjects/Lab4_UILabs/app/src/main/res/layout/add_todo.xml -->
